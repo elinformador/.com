@@ -35,3 +35,10 @@ body {
       font-size: 150px;
       text-align: center;
     }
+
+a:hover {
+      background-color: black; 
+      color: white;
+      font-size: 30px;
+      text-align: center;
+    }
