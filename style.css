@@ -19,3 +19,12 @@ body {
   div {
       text-align: center;
     }
+
+  div {
+      transition-duration: 0.4s;
+    }
+    
+  div:hover {
+      background-color: black; 
+      color: white;
+    }
