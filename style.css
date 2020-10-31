@@ -1,14 +1,9 @@
-body {
-    background-color: #CD853F;
-    font-family: 'Times New Roman';
-    
-  }
-  
+
   h1 {
     color: black;
     text-align: center;
     font-family: 'Times New Roman';
-    font-size: 40px;
+    font-size: 20px;
     
   }
   
@@ -36,9 +31,3 @@ body {
       text-align: center;
     }
 
-a:hover {
-      background-color: black; 
-      color: white;
-      font-size: 30px;
-      text-align: center;
-    }
